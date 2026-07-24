@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/formancehq/numscript/internal/jsonrpc2"
-	"github.com/formancehq/numscript/internal/lsp"
-	"github.com/formancehq/numscript/internal/parser"
+	"github.com/hanzo-fi/numscript/internal/jsonrpc2"
+	"github.com/hanzo-fi/numscript/internal/lsp"
+	"github.com/hanzo-fi/numscript/internal/parser"
 	"github.com/gkampitakis/go-snaps/snaps"
 	"github.com/stretchr/testify/require"
 	"go.lsp.dev/protocol"

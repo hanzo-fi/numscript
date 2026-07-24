@@ -10,10 +10,10 @@ import (
 	"slices"
 	"strings"
 
-	"github.com/formancehq/numscript/internal/ansi"
-	"github.com/formancehq/numscript/internal/interpreter"
-	"github.com/formancehq/numscript/internal/parser"
-	"github.com/formancehq/numscript/internal/utils"
+	"github.com/hanzo-fi/numscript/internal/ansi"
+	"github.com/hanzo-fi/numscript/internal/interpreter"
+	"github.com/hanzo-fi/numscript/internal/parser"
+	"github.com/hanzo-fi/numscript/internal/utils"
 	"github.com/sergi/go-diff/diffmatchpatch"
 )
 

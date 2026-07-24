@@ -3,8 +3,8 @@ package analysis
 import (
 	"slices"
 
-	"github.com/formancehq/numscript/internal/flags"
-	"github.com/formancehq/numscript/internal/parser"
+	"github.com/hanzo-fi/numscript/internal/flags"
+	"github.com/hanzo-fi/numscript/internal/parser"
 )
 
 // -- functionalities constraint

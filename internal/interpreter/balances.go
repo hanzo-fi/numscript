@@ -4,7 +4,7 @@ import (
 	"math/big"
 	"strings"
 
-	"github.com/formancehq/numscript/internal/utils"
+	"github.com/hanzo-fi/numscript/internal/utils"
 )
 
 func (b Balances) DeepClone() Balances {

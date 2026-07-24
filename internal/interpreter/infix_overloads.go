@@ -3,7 +3,7 @@ package interpreter
 import (
 	"math/big"
 
-	"github.com/formancehq/numscript/internal/parser"
+	"github.com/hanzo-fi/numscript/internal/parser"
 )
 
 type opAdd interface {

@@ -1,4 +1,4 @@
-module github.com/formancehq/numscript
+module github.com/hanzo-fi/numscript
 
 go 1.24.4
 

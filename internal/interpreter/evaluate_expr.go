@@ -4,9 +4,9 @@ import (
 	"math/big"
 	"strings"
 
-	"github.com/formancehq/numscript/internal/flags"
-	"github.com/formancehq/numscript/internal/parser"
-	"github.com/formancehq/numscript/internal/utils"
+	"github.com/hanzo-fi/numscript/internal/flags"
+	"github.com/hanzo-fi/numscript/internal/parser"
+	"github.com/hanzo-fi/numscript/internal/utils"
 )
 
 func (st *programState) evaluateExpr(expr parser.ValueExpr) (Value, InterpreterError) {

@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"github.com/formancehq/numscript/internal/mcp_impl"
+	"github.com/hanzo-fi/numscript/internal/mcp_impl"
 	"github.com/spf13/cobra"
 )
 

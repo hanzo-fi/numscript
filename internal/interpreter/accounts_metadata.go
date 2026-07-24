@@ -1,7 +1,7 @@
 package interpreter
 
 import (
-	"github.com/formancehq/numscript/internal/utils"
+	"github.com/hanzo-fi/numscript/internal/utils"
 )
 
 func (m AccountsMetadata) fetchAccountMetadata(account string) AccountMetadata {

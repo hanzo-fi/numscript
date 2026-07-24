@@ -6,13 +6,13 @@ import (
 	"encoding/json"
 	"math/big"
 
-	"github.com/formancehq/numscript/internal/flags"
-	machine "github.com/formancehq/numscript/internal/interpreter"
-	"github.com/formancehq/numscript/internal/specs_format"
+	"github.com/hanzo-fi/numscript/internal/flags"
+	machine "github.com/hanzo-fi/numscript/internal/interpreter"
+	"github.com/hanzo-fi/numscript/internal/specs_format"
 
 	"testing"
 
-	"github.com/formancehq/numscript/internal/parser"
+	"github.com/hanzo-fi/numscript/internal/parser"
 
 	"github.com/stretchr/testify/require"
 )

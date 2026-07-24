@@ -3,7 +3,7 @@ package parser_test
 import (
 	"testing"
 
-	"github.com/formancehq/numscript/internal/parser"
+	"github.com/hanzo-fi/numscript/internal/parser"
 	"github.com/stretchr/testify/require"
 )
 

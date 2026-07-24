@@ -3,7 +3,7 @@ package analysis_test
 import (
 	"testing"
 
-	"github.com/formancehq/numscript/internal/analysis"
+	"github.com/hanzo-fi/numscript/internal/analysis"
 	"github.com/stretchr/testify/require"
 )
 

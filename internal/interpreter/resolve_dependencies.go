@@ -4,8 +4,8 @@ import (
 	"context"
 	"errors"
 
-	"github.com/formancehq/numscript/internal/analysis"
-	"github.com/formancehq/numscript/internal/parser"
+	"github.com/hanzo-fi/numscript/internal/analysis"
+	"github.com/hanzo-fi/numscript/internal/parser"
 )
 
 var ErrScalingNotSupported = errors.New("scaling is not supported")

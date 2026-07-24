@@ -3,8 +3,8 @@ package lsp
 import (
 	"fmt"
 
-	"github.com/formancehq/numscript/internal/analysis"
-	"github.com/formancehq/numscript/internal/parser"
+	"github.com/hanzo-fi/numscript/internal/analysis"
+	"github.com/hanzo-fi/numscript/internal/parser"
 	"go.lsp.dev/protocol"
 )
 

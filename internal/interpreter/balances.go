@@ -3,7 +3,7 @@ package interpreter
 import (
 	"math/big"
 
-	"github.com/formancehq/numscript/internal/utils"
+	"github.com/hanzo-fi/numscript/internal/utils"
 )
 
 type BalanceRow struct {

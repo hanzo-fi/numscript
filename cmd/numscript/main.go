@@ -6,7 +6,7 @@ import (
 	"runtime/debug"
 	"time"
 
-	"github.com/formancehq/numscript/internal/cmd"
+	"github.com/hanzo-fi/numscript/internal/cmd"
 
 	"github.com/getsentry/sentry-go"
 )

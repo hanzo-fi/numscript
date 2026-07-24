@@ -4,7 +4,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/formancehq/numscript/builder"
+	"github.com/hanzo-fi/numscript/builder"
 	"github.com/gkampitakis/go-snaps/snaps"
 	"github.com/stretchr/testify/require"
 )

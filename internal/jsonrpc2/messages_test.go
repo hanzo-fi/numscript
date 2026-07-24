@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/formancehq/numscript/internal/jsonrpc2"
+	"github.com/hanzo-fi/numscript/internal/jsonrpc2"
 	"github.com/gkampitakis/go-snaps/snaps"
 	"github.com/stretchr/testify/require"
 )

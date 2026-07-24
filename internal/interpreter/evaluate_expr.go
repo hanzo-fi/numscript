@@ -5,8 +5,8 @@ import (
 	"math/big"
 	"strings"
 
-	"github.com/formancehq/numscript/internal/flags"
-	"github.com/formancehq/numscript/internal/parser"
+	"github.com/hanzo-fi/numscript/internal/flags"
+	"github.com/hanzo-fi/numscript/internal/parser"
 )
 
 type evalEnv struct {

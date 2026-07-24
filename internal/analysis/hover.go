@@ -1,8 +1,8 @@
 package analysis
 
 import (
-	"github.com/formancehq/numscript/internal/parser"
-	"github.com/formancehq/numscript/internal/utils"
+	"github.com/hanzo-fi/numscript/internal/parser"
+	"github.com/hanzo-fi/numscript/internal/utils"
 )
 
 type Hover interface{ hover() }

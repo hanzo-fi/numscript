@@ -3,8 +3,8 @@ package interpreter
 import (
 	"slices"
 
-	"github.com/formancehq/numscript/internal/parser"
-	"github.com/formancehq/numscript/internal/utils"
+	"github.com/hanzo-fi/numscript/internal/parser"
+	"github.com/hanzo-fi/numscript/internal/utils"
 )
 
 // traverse the script to batch in advance required balance queries

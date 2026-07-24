@@ -5,7 +5,7 @@ import (
 	"os"
 	"sort"
 
-	"github.com/formancehq/numscript/internal/analysis"
+	"github.com/hanzo-fi/numscript/internal/analysis"
 
 	"github.com/spf13/cobra"
 )

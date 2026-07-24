@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/formancehq/numscript/internal/analysis"
-	"github.com/formancehq/numscript/internal/parser"
+	"github.com/hanzo-fi/numscript/internal/analysis"
+	"github.com/hanzo-fi/numscript/internal/parser"
 )
 
 type Value interface {

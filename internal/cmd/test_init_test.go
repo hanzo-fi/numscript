@@ -4,8 +4,8 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/formancehq/numscript/internal/cmd"
-	"github.com/formancehq/numscript/internal/interpreter"
+	"github.com/hanzo-fi/numscript/internal/cmd"
+	"github.com/hanzo-fi/numscript/internal/interpreter"
 	"github.com/stretchr/testify/require"
 )
 

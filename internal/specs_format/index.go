@@ -9,8 +9,8 @@ import (
 	"slices"
 	"sort"
 
-	"github.com/formancehq/numscript/internal/interpreter"
-	"github.com/formancehq/numscript/internal/parser"
+	"github.com/hanzo-fi/numscript/internal/interpreter"
+	"github.com/hanzo-fi/numscript/internal/parser"
 )
 
 // TxMetadataRow is a single transaction metadata entry. Like SetAccountMetadataRow,

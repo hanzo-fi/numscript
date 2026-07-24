@@ -4,9 +4,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/formancehq/numscript/internal/analysis"
-	lsp "github.com/formancehq/numscript/internal/lsp"
-	"github.com/formancehq/numscript/internal/parser"
+	"github.com/hanzo-fi/numscript/internal/analysis"
+	lsp "github.com/hanzo-fi/numscript/internal/lsp"
+	"github.com/hanzo-fi/numscript/internal/parser"
 	"github.com/stretchr/testify/require"
 	"go.lsp.dev/protocol"
 )
